@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">Vault Tracker</string>
-    <string name="title_activity_main">Vault Tracker</string>
-    <string name="package_name">com.nrupal.vaulttracker</string>
-    <string name="custom_url_scheme">com.nrupal.vaulttracker</string>
+    <string name="app_name">Vault Habits</string>
+    <string name="title_activity_main">Vault Habits</string>
+    <string name="package_name">com.vault.habits</string>
+    <string name="custom_url_scheme">com.vault.habits</string>
 </resources>
