@@ -1,1 +1,1 @@
-{"edges":{"by_kind":{"calls":668,"contains":220,"defines":135,"imports":89,"reads":202,"writes":2},"total":1316},"nodes":{"by_kind":{"class":4,"doc":13,"external":480,"file":50,"function":29,"interface":20,"module":48,"package":1,"variable":56},"total":701}}
+{"edges":{"by_kind":{"calls":696,"contains":262,"defines":141,"imports":96,"inherits":1,"reads":219,"writes":2},"total":1417},"nodes":{"by_kind":{"class":8,"doc":14,"external":510,"file":57,"function":29,"interface":20,"method":8,"module":55,"package":1,"variable":71},"total":773}}
